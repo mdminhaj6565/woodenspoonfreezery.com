@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /_build/
+Disallow: /data/
+
+Sitemap: https://woodenspoonfreezery.com/sitemap.xml

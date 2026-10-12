@@ -1,0 +1,640 @@
+{
+ "current": [
+  {
+   "slug": "smores",
+   "name": "S'mores",
+   "group": "limited",
+   "desc": "‘graham cracker’ ice cream with house-made marshmallows, a chocolate fudge ripple and bits of buttery crunchy ‘graham’ crumb. (contains gluten, egg whites)",
+   "ingredients": [
+    "organic milk, organic cream, sugar, glucose, trim milk powder, malt biscuits (wheat flour, vegetable fat (antioxidant (307b (soy)), sugar, malt extract (barley), invert syrup, whey powder, salt, colours (150c, 110, 155), treacle, raising agent (baking soda), flavour), fudge swirl (coconut cream, dark chocolate (soy lecithin), golden syrup, cocoa powder, vanilla), marshmallows (egg whites, sugar, glucose, tartaric acid, vanilla, sea salt), graham crunch (malt biscuits (wheat flour, vegetable fat (antioxidant (307b (soy)), sugar, malt extract (barley), invert syrup, whey powder, salt, colours (150c, 110, 155), treacle, raising agent (baking soda), flavour), wheat flour, sugar, butter, cornflour, sea salt), tapioca flour, pure vanilla extract, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1685678457495-QIBJ7MZ6WZAACUMZX16T/S-MORES-w-lid_format-500w.jpg"
+  },
+  {
+   "slug": "ube",
+   "name": "Ube",
+   "group": "limited",
+   "desc": "straight up ube ice cream, made from real ube!",
+   "ingredients": [
+    "organic milk, organic cream, ube puree (ube, sugar, citric acid, sea salt), sugar, glucose, trim milk powder, tapioca flour, citric acid, ube extract, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1690242627681-DVRKV3F2Z2TOTO4H1QGZ/UBE-w-lid_format-500w.jpg"
+  },
+  {
+   "slug": "banoffee-pie",
+   "name": "Banoffee Pie",
+   "group": "signature",
+   "desc": "real banana ice cream with a gooey caramel swirl and buttery pie crust bits (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, banana puree (bananas, condensed milk, brown sugar, vanilla, sea salt), sugar, glucose, caramel swirl (sugar, organic cream, unsalted butter, glucose, sea salt), trim milk powder, pie crust bites  (wheat flour, brown sugar, unsalted butter, sea salt), cornflour, sea salt."
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1701758678824-2W3N67NPYEP88GX6C5FY/BANOFFEE-PIE-w-pot_format-500w.jpg"
+  },
+  {
+   "slug": "birthday-cake",
+   "name": "Birthday Cake",
+   "group": "signature",
+   "desc": "buttery, yellow cake batter ice cream with rainbow sprinkles (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, cake batter (pasteurised wheat flour, sugar, unsalted butter, trim milk powder, corn flour, baking powder, sea salt, vanilla), sugar, glucose, trim milk powder, rainbow sprinkles, tapioca flour, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683253778960-DN3GVQT97SL6FXY9RG19/BIRTHDAY-CAKE-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "boysenberry-cheesecake",
+   "name": "Boysenberry Cheesecake",
+   "group": "signature",
+   "desc": "very boysenberry ice cream with our house-made cheesecake filling swirl and bits of buttery crunchy crust. (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, sugar, boysenberry puree (boysenberries, sugar, citric acid, sea salt), glucose, cream cheese, icing sugar, cheesecake crust (wheat flour, unsalted butter, brown sugar, sea salt), trim milk powder, tapioca starch, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683253957957-ST79FB5TQ04FCQ3F8P0P/BOYSENBERRY-CHEESECAKE-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "brownie-batter",
+   "name": "Brownie Batter",
+   "group": "signature",
+   "desc": "rich, chocolatey, brownie batter ice cream with a fudge swirl (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, chocolate sauce 14% (sugar, cocoa powder, water, dark chocolate (cocoa solids 72%  [cocoa mass +cocoa butter], sugar, emulsifier [soy lecithin], vanilla  flavour), cake batter 12% (wheat flour, sugar, unsalted butter, cocoa powder, trim milk powder, cornflour, vanilla, sea salt), sugar, glucose, trim milk powder, tapioca starch, fudge swirl 4%, vanilla, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683254027349-A1VG4CW6U8XRNSK2GUBR/BROWNIE-BATTER-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "choc-mint-cookie",
+   "name": "Choc Mint Cookie",
+   "group": "signature",
+   "desc": "our signature chocolate peppermint ice cream with bits of chocolate-filled house-made creme filling biscuits (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, chocolate sauce 20.8% (water, sugar, cocoa powder, dark chocolate), sugar, creme 8% (icing sugar, unsalted butter, vegetable shortening, vanilla extract), glucose, chocolate cookie crumb 4.5%, trim milk powder, tapioca, mint extract"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683254122998-EC28FCW39P5QSVZ7IEC7/CHOC-MINT-COOKIE-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "churros",
+   "name": "Churros",
+   "group": "signature",
+   "desc": "cinnamon-y churros batter ice cream with a dulce de leche swirl and churros crumb (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, churro batter 18% (wheat flour, sugar, trim milk powder, vanilla, cinnamon, sea salt), sugar, churro crumb 5% (wheat flour, brown sugar, unsalted butter, cinnamon, sea salt) dulce de leche 5% (organic milk, sugar, baking soda, vanilla), glucose, trim milk powder, tapioca starch, sea salt, cinnamon, vanilla"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683254200509-WJ0F9DWS482SPRJYB9TA/CHURROS-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "mint-chip",
+   "name": "Mint Chip",
+   "group": "signature",
+   "desc": "peppermint ice cream with dark chocolate slivers",
+   "ingredients": [
+    "organic milk, organic cream, sugar, glucose, trim milk powder, dark chocolate (cocoa solids 72%  [cocoa mass +cocoa butter], sugar, emulsifier [soy lecithin], vanilla flavour), tapioca starch, mint extract"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683284968921-RIGSYU9MYIE0K3ITDBN7/MINT-CHIP-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "raspberries",
+   "name": "Raspberries",
+   "group": "signature",
+   "desc": "very raspberry ice cream with bits of freeze-dried raspberries",
+   "ingredients": [
+    "organic milk, organic cream, sugar, raspberry puree (raspberries, sugar, citric acid, sea salt), glucose, trim milk powder, tapioca starch, freeze-dried raspberries, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683254328296-AHKEKK1T4DLN6V7OAHG9/RASPBERRIES-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "smokey-pokey",
+   "name": "Smokey Pokey",
+   "group": "signature",
+   "desc": "salted caramel ice cream with chocolate-covered hokey pokey bits",
+   "ingredients": [
+    "organic milk, organic cream, caramel sauce 21% (sugar, organic cream, unsalted butter), hokey pokey 10% (sugar, golden syrup, baking soda, dark chocolate (cocoa solids 72%  [cocoa mass +cocoa butter], sugar, emulsifier [soy lecithin], vanilla flavour),sugar, glucose, trim milk powder, tapioca starch, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683254399139-TTEGFJYL8ANW5Z3H47QP/SMOKEY-POKEY-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "vietnamese-coffee",
+   "name": "Vietnamese Coffee",
+   "group": "signature",
+   "desc": "a Wooden Spoon favourite since 2011 - espresso and condensed milk ice cream",
+   "ingredients": [
+    "Peoples ‘Don Wilfredo’ espresso, condensed milk, organic milk, organic cream"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683254505351-IESO89E82RP27F1QBXTD/VIETNAMESE-COFFEE-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "df-caramel-hokey-pokey",
+   "name": "DF Caramel Hokey Pokey",
+   "group": "dairy-free",
+   "desc": "salted caramel oat milk ‘ice cream’ with chocolate covered hokey pokey pieces (vegan, contains oats)",
+   "ingredients": [
+    "oat milk 55% (water oats), caramel 14% (brown sugar, golden syrup, coconut oil, coconut milk, vanilla), hokey pokey 11% (sugar, golden syrup, dark chocolate [soy lecithin], baking soda), glucose, sugar, vegetable shortening [soy lecithin], tapioca starch, sea salt, guar gum"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683254964424-7WEOXMOHWFKIT0Z3MX71/DF-CARAMEL-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "df-double-choc-fudge",
+   "name": "DF Double Choc Fudge",
+   "group": "dairy-free",
+   "desc": "chocolate oat milk ‘ice cream’ with a dairy-free fudge swirl (vegan, contains oats)",
+   "ingredients": [
+    "oat milk 60% (water, oats), sugar, glucose, coconut oil, chocolate swirl 5% (coconut cream, dark chocolate (soy lecithin) golden syrup, cocoa powder, coconut oil, vanilla), tapioca starch, sea salt, guar gum"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683279838267-5DGDHIC8N2D6UDJPCVIF/DF-DOUBLE-CHOC-FUDGE-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "df-peanut-butter-chip",
+   "name": "DF Peanut Butter Chip",
+   "group": "dairy-free",
+   "desc": "peanut butter oat milk ‘ice cream’ with dark chocolate slivers (vegan, contains peanuts)",
+   "ingredients": [
+    "oat milk, sugar, glucose, peanut butter, coconut fat, tapioca starch, dark chocolate (cocoa solids 72% [cocoa mass +cocoa butter], sugar, emulsifier [soy lecithin], vanilla flavour), sea salt, guar gum"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683279950172-5VDORUZ4SU1UI1RQIDGA/DF-PEANUT-BUTTER-CHIP-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "df-plum-plum",
+   "name": "DF Plum Plum",
+   "group": "dairy-free",
+   "desc": "plum oat milk ‘ice cream’ with a jammy plum swirl (vegan, contains oats)",
+   "ingredients": [
+    "oat milk, sugar, glucose, plum puree 25% (black doris plums, sugar, citric acid, sea salt), coconut fat, tapioca starch, plum swirl 4%, sea salt, guar gum"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683279983704-052XK80QHFGKNPD543HT/DF-PLUM-PLUM-w-POT_format-500w.jpg"
+  },
+  {
+   "slug": "df-boysenberry-chip",
+   "name": "DF Boysenberry Chip",
+   "group": "dairy-free",
+   "desc": "sweet and tart dairy-free boysenberry oat milk ‘ice cream’ and dark chocolate chips (vegan, contains oats)",
+   "ingredients": [
+    "oat milk, sugar, glucose, boysenberry puree 25% (boysenberries, sugar, citric acid, sea salt), coconut fat, dark chocolate (cocoa solids 72% [cocoa mass +cocoa butter], sugar, emulsifier [soy lecithin], vanilla flavour), tapioca starch, sea salt, guar gum"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683280118807-6QVPFYURTGQCZ1K11XXY/DF-BOYSENBERRY-CHIP-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "df-mango-lassi",
+   "name": "DF Mango Lassi",
+   "group": "dairy-free",
+   "desc": "mango oat milk ‘ice cream’ with a hint of cardamom spice - just like a mango lassi! (vegan, contains oats)",
+   "ingredients": [
+    "oat milk, sugar, glucose, mango puree 25% (mangos, sugar, citric acid, sea salt), coconut fat, tapioca starch, plum swirl 4%, sea salt, guar gum, cardamom, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683280153670-NZ2O4UPO19GHC47JUC2B/DF-MANGO-LASSI-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "cookies-and-cream",
+   "name": "Cookies & Cream",
+   "group": "classic",
+   "desc": "classic vanilla ice cream with the classic cookie crumbled throughout (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, sugar, glucose, trim milk powder, cookie crumb (wheat flour, sugar, vegetable oil, (contains anti oxidants 319), cocoa powder 6%, fructose syrup, rising agents (500,503), salt, emulsifier (soy lecithin), corn starch, flavours), vanilla, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683285334105-WLHTKUF4Y9CGFSA9B0V8/COOKIES---CREAM-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "dark-chocolate",
+   "name": "Dark Chocolate",
+   "group": "classic",
+   "desc": "dark chocolate ice cream with a hint of sea salt",
+   "ingredients": [
+    "organic milk, organic cream, chocolate sauce 14% (sugar, cocoa powder, water, dark chocolate (cocoa solids 72% [cocoa mass +cocoa butter], sugar, emulsifier [soy lecithin], vanilla flavour), sugar, glucose, trim milk powder, cornflour, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683588819391-4TQVYYBL07WMU3D9UKLZ/DARK-CHOCOLATE-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "maple-and-waffles",
+   "name": "Maple & Waffles",
+   "group": "classic",
+   "desc": "maple ice cream with house-made waffle cone brittle bits (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, sugar, glucose, maple syrup, waffle cone brittle (waffle cones (wheat flour, sugar, starch, fibre, vegetable oil, emulsifier (soy lecithin, 322), flavour, salt), glucose, sugar, baking soda, salt), trim milk powder, cornflour, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683285377034-C3Z9VGYY0A26KQAADX1Y/MAPLE-WAFFLES-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "ochocolypse",
+   "name": "Ochocolypse",
+   "group": "classic",
+   "desc": "dark chocolate ice cream with a hint of orange - just like a Jaffa!",
+   "ingredients": [
+    "organic milk, organic cream, chocolate sauce 14% (sugar, cocoa powder, water, dark chocolate (cocoa solids 72%  [cocoa mass +cocoa butter], sugar, emulsifier [soy lecithin], vanilla flavour), sugar, glucose, trim milk powder, tapioca starch, orange extract"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683284614481-V5IN14DZMWCH5OF5O60A/OCHOCOLYPSE-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "salted-honey-pb-pretzel-pie",
+   "name": "Salted Honey PB Pretzel Pie",
+   "group": "classic",
+   "desc": "a salted honey ice cream with a sweet peanut butter swirl plus a peanut and pretzel crunch (contains gluten and peanuts)",
+   "ingredients": [
+    "organic milk, organic cream, honey, sugar, peanut butter, unsalted butter, glucose, pretzels (enriched wheat flour, corn syrup, salt, raising agent (sodium bicarbonate), yeast), peanuts, trim milk powder, brown sugar, tapioca starch, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683285429685-8FS4GKZG8EFIIH57RP9T/SALTED-HONEY-PB-PRETZEL-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "tim-tam-slam",
+   "name": "Tim Tam Slam",
+   "group": "classic",
+   "desc": "rich chocolate ice cream with a caramel swirl and bits of Original Tim Tams (contains gluten)",
+   "ingredients": [
+    "organic milk, organic cream, chocolate sauce 14% (sugar, cocoa powder, water, dark chocolate (cocoa solids 72%  [cocoa mass +cocoa butter], sugar, emulsifier [soy lecithin], vanilla flavour), sugar, Original Tim Tam bits (milk chocolate (38%) (sugar, milk solids, cocoa butter, cocoa mass, vegetable oil, emulsifiers (soy lecithin, E476), flavour), wheat flour, sugar, vegetable oil (soy), golden syrup, food colours (caramel III, beet red, cochineal, annatto), cocoa powder, salt, baking powder, emulsifier (soy lecithin), flavour), glucose, caramel swirl (sugar, organic cream, unsalted butter, glucose, sea salt), trim milk powder, cornflour, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683587026047-YFRPV3HX7G4PAA16NZD1/TIM-TAM-SLAM-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "vanilla",
+   "name": "Vanilla",
+   "group": "classic",
+   "desc": "classic real vanilla bean ice cream",
+   "ingredients": [
+    "organic milk, organic cream, sugar, glucose, trim milk powder, tapioca flour, citric acid, vanilla, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683587124695-YJ3W87TKCO6HTSXU7AX1/VANILLA-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "white-chocolate-raspberry",
+   "name": "White Chocolate Raspberry",
+   "group": "classic",
+   "desc": "white chocolate ice cream with white chocolate slivers and a raspberry swirl",
+   "ingredients": [
+    "organic milk, organic cream, white chocolate sauce 14% (white chocolate, sugar, milk powder 30%, pure cocoa butter 28%, emulsifier (soy lecithin), vanilla flavour), sugar, glucose, raspberry swirl (raspberries, sugar, sea salt, citric acid), trim milk powder, white chocolate slivers, tapioca starch, xanthan gum, sea salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683285461941-EOI4CGS74216B83KOD56/WHITE-CHOCOLATE-RASPBERRY-w-LID_format-500w.jpg"
+  },
+  {
+   "slug": "the-classic",
+   "name": "The Classic",
+   "group": "sandwich",
+   "desc": "our classic vanilla bean ice cream sandwiched between two chocolate chip cookies (contains gluten, egg)",
+   "ingredients": [
+    "vanilla ice cream: organic milk, organic cream, sugar, glucose, trim milk powder, tapioca starch, vanilla extract",
+    "chocolate chip cookies: wheat flour, dark chocolate chips (sugar, vegetable fat, cocoa powder, milk solids, emulsifier [soy lecithin 492, 476], salt, flavour), unsalted butter, brown sugar, sugar, eggs, vanilla extract, baking soda, salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683505467747-ILW86CMVCCCJ50ECFHBI/CLASSIC-with-bag_format-500w.jpg"
+  },
+  {
+   "slug": "double-dutch",
+   "name": "Double Dutch",
+   "group": "sandwich",
+   "desc": "classic vanilla bean ice cream sandwiched between two gluten-free double chocolate chip cookies (contains egg)",
+   "ingredients": [
+    "salted vanilla ice cream: organic milk, organic cream, sugar, glucose, trim milk powder, tapioca starch, pure vanilla extract, sea salt\u0003",
+    "gluten-free (GF) double chocolate chip cookies: gluten-free flour, dark chocolate chips, unsalted butter, brown sugar, sugar, eggs, cocoa powder, baking soda,\u0003vanilla essence, salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683505706278-85SV37S8ZONYDHL7Q713/Double-Dutch-with-bag-2_format-500w.jpg"
+  },
+  {
+   "slug": "shiver-me-timbers",
+   "name": "Shiver Me Timbers",
+   "group": "sandwich",
+   "desc": "caramel and sea salt ice cream sandwiched between two dark chocolate cookies (contains gluten, egg)",
+   "ingredients": [
+    "caramel & sea salt ice cream: organic milk, organic cream, caramel 21% (sugar, organic cream, unsalted butter), glucose, trim milk powder, tapioca starch, sea salt",
+    "chocolate cookies: sugar, wheat flour, unsalted butter, eggs, cocoa powder, vanilla, baking soda, salt"
+   ],
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683506128241-GWT8D6GUFNH7TMJKIAY2/SMT-with-bag_format-500w.jpg"
+  }
+ ],
+ "melted": [
+  {
+   "name": "Chai Donut",
+   "month": "May 2023",
+   "desc": "brown sugar vanilla ice cream with bits of chai glazed, chai spiced donuts",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1683666451360-WV9LA20O4FA9YH3AKA2I/CHAI-DONUT-w-LID-STAR_format-500w.jpg"
+  },
+  {
+   "name": "Key Lime Pie",
+   "month": "May 2023",
+   "desc": "tart and sweet lime ice cream with buttery pie crumb",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1684875907086-DORRE85QUFVM7P37WHX0/KEY-LIME-PIE-w-LID-STAR_format-500w.jpg"
+  },
+  {
+   "name": "Movie Night",
+   "month": "May 2023",
+   "desc": "our award-winning buttered popcorn ice cream with a popcorn and peanut brittle",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1684876110435-4FURR7WTYZDGSEMRC9KI/MOVIE-NIGHT-w-LID_format-500w.jpg"
+  },
+  {
+   "name": "Pear & Blue Cheese",
+   "month": "May 2023",
+   "desc": "pear ice cream with candied pears and Kingsmeade Sunset blue cheese crumble",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1684876128120-UU5V310GQSLFCQSMP715/PEAR---BLUE-CHEESE-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "White Choc Mocha",
+   "month": "May 2023",
+   "desc": "white chocolate mocha ice cream with a caramel swirl",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1684876153161-WZY6IXJKMIXWQSIJGJC5/WHITE-CHOC-MOCHA-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Chocolate Peanut Butter Cookie",
+   "month": "June 2023",
+   "desc": "chocolate peanut butter ice cream with gobs of chunky peanut butter swirl and bits of peanut butter cookies",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1686528385268-6BBXNYE26RN90P7SYNGO/CHOCOLATE-PEANUT-BUTTER-COOKIE-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Strawberry Milkshake Donut",
+   "month": "June 2023",
+   "desc": "vanilla and strawberry flecked ice cream with strawberry bits and vanilla cake bites",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1686528553664-4MYBH828QW386CNMUPK7/STRAWBERRY-MILKSHAKE-DONUT-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Marshmallow Salted Caramel",
+   "month": "June 2023",
+   "desc": "marshmallow fluff ice cream with a luscious salted caramel ribbon",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1687296874134-YKKK2Z1JK85LU90RI6AK/MARSHMALLOW-SALTED-CARAMEL-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Smartie Party",
+   "month": "June 2023",
+   "desc": "a (blue!) white chocolate ice cream with crunchy smashed Smartie bits",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1687296894493-XXRGKQKUL7KNFDHR9VTJ/SMARTIE-PARTY-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Apple Pie",
+   "month": "July 2023",
+   "desc": "apple ice cream with a caramel swirl and buttery crunchy pie crust bits",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1689549251794-L29AZSM5ZWTCU36CLMHC/APPLE-PIE-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "S'Mores",
+   "month": "July 2023",
+   "desc": "‘graham cracker’ ice cream with house-made marshmallows, a chocolate fudge ripple and bits of buttery crunchy ‘graham’ crumb.",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1689550137968-BOQ116QAKOWX2S3D18LB/S-MORES-w-lid-3_format-500w.jpg"
+  },
+  {
+   "name": "Rhubarb Crumble",
+   "month": "July 2023",
+   "desc": "a vanilla ice cream with a chunky, jammy rhubarb swirl and bits of buttery oat crumble",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1689731931244-NPWH1MGIK1DHDTVJ9G54/RHUBARB-CRUMBLE-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Spiced Hot Chocolate",
+   "month": "July 2023",
+   "desc": "dark chocolate ice cream with a kick!- a hint of cinnamon and chili powder",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1689731953063-08ZKQWTASD2JH9I810G5/SPICED-HOT-CHOCOLATE--w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Sour Coke Bottle",
+   "month": "July 2023",
+   "desc": "a sour coke bottle-inspired ice cream",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1690923576650-540US8IKCIGWEPRUZMKW/SOUR-COKE-BOTTLE-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Speculoos Choc Chunk",
+   "month": "July 2023",
+   "desc": "salted vanilla ice cream with gobs of speculoos butter, speculoos crumb and chocolate chips",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1690923599451-HRI2ISUXUTCS6DV4LKYA/SPECULOOS-CHOC-CHUNK-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Orange Raspberry Cake",
+   "month": "August 2023",
+   "desc": "vanilla cake batter ice cream with orange curd swirl and freeze-dried raspberry bits",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1694556682729-NGWR11WXAA6RT06FOE5O/ORANGE-RASPBERRY-CAKE-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Pandan Cake",
+   "month": "August 2023",
+   "desc": "toasted coconut ice cream with hunks of house-made pandan cake",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1694556707825-20H0WUINTPKVP06OCK74/PANDAN-CAKE-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Banana Split",
+   "month": "August 2023",
+   "desc": "vanilla ice cream with a banana caramel swirl, fudgy house-baked brownie bits, and chunky cherry swirl",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1694556993225-AQ0HXBC5EMVO86FXGST9/BANANA-SPLIT--w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Sweet Corn with Plum Swirl",
+   "month": "August 2023",
+   "desc": "sweet corn-steeped ice cream with a tart plum swirl",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1694557038002-YNWVK205DOTUBVJKXTLN/SWEET-CORN---PLUM-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Mandarin White Chocolate Chip",
+   "month": "September 2023",
+   "desc": "mandarin orange ice cream with flakes of white chocolate",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1694557082745-O1EBQNZW8CKF10SZPZ7U/MANDARIN-WHITE-CHOCOLATE--w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Ube",
+   "month": "September 2023",
+   "desc": "straight up ube ice cream, made from real ube!",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1694557110333-RP02W62DFX2C9AVJH4KI/UBE-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Guava Strawberry",
+   "month": "September 2023",
+   "desc": "guava ice great with a strawberry swirl",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1695774584657-SB9GAVIOFYCNZ8S2KMHG/GUAVA-STRAWBERRY--w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Mango Sticky Rice",
+   "month": "September 2023",
+   "desc": "coconut sticky rice ice cream with a jammy mango swirl",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1695774615672-VNYKYUX2VBTYC22PV2IX/MANGO-STICKY-RICE-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Salted Hazelnut Chocolate",
+   "month": "October 2023",
+   "desc": "salted hazelnut ice cream with Whittaker’s Hazella chocolate shavings and a house-made chocolate -hazelnut swirl",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1696970813882-B8T7GCWDO45BXCWP7EFC/SALTED-CHOCOLATE-HAZELNUT-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Strawberry Cheesecake Brownie",
+   "month": "October 2023",
+   "desc": "salted vanilla ice cream with a strawberry swirl and house-made cheesecake brownie bites",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1696970879256-GI1ZVSWJVAA7SV798O4C/STRAWBERRY-CHEESECAKE-BROWNIE-lid_format-500w.jpg"
+  },
+  {
+   "name": "Monster Mash",
+   "month": "October 2023",
+   "desc": "chocolate ice cream with a fudge swirl, marshmallow swirl and smooshed Kit Kat bits",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1698271104108-NFO6ECCKUWB2N9KDTGJK/MONSTER-MASH-w-lid-2_format-500w.jpg"
+  },
+  {
+   "name": "Pumpkin Pie Crunch",
+   "month": "October 2023",
+   "desc": "pumpkin pie spiced ice cream with a ginger biscuit and cream cheese swirl",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1698271148819-IF1ZCDBZZ9K3M9EI0EIZ/PUMPKIN-PIE-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Pina Colada",
+   "month": "October 2023",
+   "desc": "a fresh pineapple and Malibu rum ice cream - just like your favourite cocktail!",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1699387815618-YR3DVG3RYV1G11D55YFY/PINA-COLADA-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Strawberry Crunchies",
+   "month": "October 2023",
+   "desc": "fresh sweet strawberry ice cream with sweet and tangy strawberry cookie crunch",
+   "img": "content/v1/55dfe696e4b049e90452dc3f/1699387838746-PW77JN9I887I2CSSVJYM/STRAWBERRY-CRUNCHIES-w-lid_format-500w.jpg"
+  },
+  {
+   "name": "Carrot Cake",
+   "month": "November 2023",
+   "desc": "brown sugar cake batter ice cream with hunks of house-baked carrot cake and cream cheese frosting swirl",
+   "img": "images/flavours/1699306013088-image-asset.jpeg"
+  },
+  {
+   "name": "Fennel with Candied Orange",
+   "month": "December 2023",
+   "desc": "fresh fennel ice cream with bits of candied orange zest",
+   "img": "images/flavours/1716841718332-FENNEL-w-CANDIED-ORANGE-w-lid.jpg"
+  },
+  {
+   "name": "Xmas Trifle",
+   "month": "December 2023",
+   "desc": "salted vanilla ice cream with bits of sherry soaked sponge and mixed berry swirl",
+   "img": "images/flavours/1716841746016-XMAS-TRIFLE--w-lid.jpg"
+  },
+  {
+   "name": "Gingerbread",
+   "month": "December 2023",
+   "desc": "ginger ice cream with hunks of house-made gingerbread and a brown sugar caramel swirl",
+   "img": "images/flavours/1716841780990-GINGERBREAD--w-lid.jpg"
+  },
+  {
+   "name": "Peppermint Stick",
+   "month": "December 2023",
+   "desc": "pink peppermint ice cream with crushed candy cane bits",
+   "img": "images/flavours/1716841794474-PEPPERMINT-STICK-w-lid.jpg"
+  },
+  {
+   "name": "Potato Chip",
+   "month": "February 2024",
+   "desc": "a sweet and salty potato chip ice cream with bits of potato chip brittle crunch",
+   "img": "images/flavours/1716841814752-POTATO-CHIP-w-lid.jpg"
+  },
+  {
+   "name": "Rhubarb Crumble",
+   "month": "February 2024",
+   "desc": "a vanilla ice cream with a chunky, jammy rhubarb swirl and bits of buttery oat crumble",
+   "img": "images/flavours/1716841827935-RHUBARB-CRUMBLE-w-lid.jpg"
+  },
+  {
+   "name": "Blueberry Pancake",
+   "month": "March 2024",
+   "desc": "a blueberry pancake batter ice cream with a cinnamon maple swirl",
+   "img": "images/flavours/1716841880601-BLUEBERRY-PANCAKE-w-lid.jpg"
+  },
+  {
+   "name": "Eton Mess",
+   "month": "March 2024",
+   "desc": "vanilla ice cream with a jammy strawberry swirl and a strawberry meringue swirl",
+   "img": "images/flavours/1716841891296-ETON-MESS-w-lid.jpg"
+  },
+  {
+   "name": "Easter Egg",
+   "month": "March 2024",
+   "desc": "milk chocolate ice cream with marshmallow fluff swirl and crushed Cadbury mini eggs",
+   "img": "images/flavours/1716841899402-EASTER-EGG-w-lid.jpg"
+  },
+  {
+   "name": "Peach Cobbler",
+   "month": "April 2024",
+   "desc": "peach ice cream with pie crust bits and jammy peach swirl",
+   "img": "images/flavours/1716841910674-PEACH-COBBLER-w-lid.jpg"
+  },
+  {
+   "name": "Black Sesame",
+   "month": "April 2024",
+   "desc": "black sesame ice cream with earl grey lemon cookie bits",
+   "img": "images/flavours/1716841954025-BLACK-SESAME-w-lid-2.jpg"
+  },
+  {
+   "name": "Caramelised White Chocolate",
+   "month": "April 2024",
+   "desc": "white chocolate ice cream with caramelised white chocolate chips",
+   "img": "images/flavours/1716842182490-CARAMELISED-WHITE-CHOC-w-lid-2.jpg"
+  },
+  {
+   "name": "Feijoa",
+   "month": "May 2024",
+   "desc": "creamy fresh feijoa ice cream",
+   "img": "images/flavours/1716842190790-FEIJOA-lid-2.jpg"
+  },
+  {
+   "name": "Hot Honey & Pistachio Praline",
+   "month": "May 2024",
+   "desc": "a hot honey (honey with a kick!) ice cream with house-made pistachio praline clusters",
+   "img": "images/flavours/1716842195553-HOT-HONEY-PISTACHIO-lid-2.jpg"
+  },
+  {
+   "name": "Peanut Butter Crunch Cereal",
+   "month": "May 2024",
+   "desc": "cereal milk ice cream with peanut butter and chocolate cornflake bites",
+   "img": "images/flavours/1716842207054-PB-CRUNCH-CEREAL-w-lid-2.jpg"
+  },
+  {
+   "name": "Matcha Strawberry",
+   "month": "May 2024",
+   "desc": "matcha ice cream with a strawberry swirl",
+   "img": "images/flavours/1716842212668-MATCHA-STRAWBERRY-w-lid-2.jpg"
+  },
+  {
+   "name": "Chocolate Malt Malteser",
+   "month": "May 2024",
+   "desc": "malted milk chocolate ice cream with smashed Malteser bits",
+   "img": "images/flavours/1718774340934-CHOCOLATE-MALT-MALTESER-w-lid.jpg"
+  },
+  {
+   "name": "Dreamy Orange",
+   "month": "June 2024",
+   "desc": "our ice cream tribute to the \"Orange Julius\" - a fresh and dreamy orange ice cream",
+   "img": "images/flavours/1718774505122-DREAMY-ORANGE-w-lid.jpg"
+  },
+  {
+   "name": "Jam Donut",
+   "month": "June 2024",
+   "desc": "a salted vanilla ice cream with a jammy raspberry swirl and house-made glazed donut bites",
+   "img": "images/flavours/1718774525970-JAM-DONUT-w-lid.jpg"
+  }
+ ],
+ "classics": [
+  {
+   "name": "Movie Night",
+   "img": "images/Movie-Night_h7zghyduxik4ks38a8ki8o.jpg",
+   "desc": "Buttered popcorn ice cream with a caramel corn brittle. Egg-free and made without gluten. Winner of a 2017 <em>Cuisine</em> Artisan Award."
+  },
+  {
+   "name": "Smokey Pokey",
+   "img": "images/Smokey-Pokey_ydqfg8nadbrzrm45xyzf74.jpg",
+   "desc": "Caramel and sea salt ice cream with chocolate-covered hokey pokey pieces. We like to call it the black-sheep cousin of classic hokey pokey."
+  },
+  {
+   "name": "Ca Phe Da (Vietnamese Coffee)",
+   "img": "images/CA-PHE-DA_00harkhus4g2nhseq6ubod.jpg",
+   "desc": "Vietnamese-style iced coffee ice cream made with Peoples Coffee espresso and condensed milk. A Wooden Spoon favourite since 2011."
+  },
+  {
+   "name": "Mint Chip",
+   "img": "images/Mint-Chip_6xzwuw2cnd5jssucmuemud.jpg",
+   "desc": "Fresh peppermint ice cream with dark chocolate slivers we temper ourselves."
+  },
+  {
+   "name": "Blackcurrant Crunch",
+   "img": "images/blackcurrant_k4eu3r76a37dc7nrefat5w.jpg",
+   "desc": "Tart and sweet blackcurrant ice cream with a caramel chocolate crunch. Supreme Champion at the 2019 Outstanding NZ Food Producer Awards."
+  },
+  {
+   "name": "Birthday Cake",
+   "img": "images/Birthday-Cake_acf0wcogkugtt7zucg2cvo.jpg",
+   "desc": "Cake batter ice cream with rainbow sprinkles (contains gluten). First created for the Hooray Programme with Kaibosh Food Rescue."
+  },
+  {
+   "name": "Chocolate Chip",
+   "img": "images/choc-chip_b7m2xxv3v8aojfpwns5yun.jpg",
+   "desc": "Vanilla ice cream with dark chocolate flecks."
+  },
+  {
+   "name": "Brownie Batter",
+   "img": "images/BrownieBatter_qku0oo2x5imm3j5yawifoo.jpg",
+   "desc": "Brownie batter ice cream with a fudge swirl (contains gluten)."
+  },
+  {
+   "name": "O'chocolypse",
+   "img": "images/ochoc_em6b6w378tmk6gbeb3ndka.jpg",
+   "desc": "Dark chocolate ice cream with a hint of orange. Think of your favourite chocolate-orange lolly."
+  }
+ ]
+}

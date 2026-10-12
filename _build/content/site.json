@@ -1,0 +1,45 @@
+{
+  "name": "Wooden Spoon Boutique Freezery",
+  "short_name": "Wooden Spoon",
+  "tagline": "Eat * Good * Ice Cream",
+  "url": "https://woodenspoonfreezery.com",
+  "lang": "en-NZ",
+  "locale": "en_NZ",
+  "ga4": "G-P31YJFBZTY",
+  "bing_verify": "CBFC7690DE9278015041A1158517B33E",
+  "logo": "content/v1/55dfe696e4b049e90452dc3f/1440822426390-FMAM56BY41KNT73MNFLH/10Dec_WSlogo_final_format-1000w.png",
+  "logo_w": 377,
+  "logo_h": 102,
+  "founded": "2011",
+  "city": "Wellington",
+  "country": "NZ",
+  "author": "The Wooden Spoon team",
+  "social": {
+    "Instagram": "https://www.instagram.com/woodenspoonfreezery/",
+    "Facebook": "https://www.facebook.com/WoodenSpoonNZ"
+  },
+  "nav": [
+    ["Flavours", "/flavours-1/"],
+    ["Dairy-free", "/superfood/"],
+    ["Sandwiches", "/cookie-sandwiches/"],
+    ["Find us", "/stockists/"],
+    ["Journal", "/blog/"],
+    ["About", "/about/"],
+    ["FAQs", "/questions/"],
+    ["Contact", "/contact/"]
+  ],
+  "footer": [
+    ["Our ice cream", "/about/"],
+    ["How it's made", "/our-process/"],
+    ["Signature flavours", "/signature-flavours/"],
+    ["Limited editions", "/limited-edition/"],
+    ["Freeze Craft collabs", "/freezecraft/"],
+    ["Ingredients & allergens", "/delivery-flavours/"],
+    ["Order & packs", "/shop/"],
+    ["Office orders", "/corporate-delivery/xero/"],
+    ["The Trailer", "/trailer/"],
+    ["The Hooray Programme", "/hooray/"],
+    ["Privacy", "/privacy/"],
+    ["Terms", "/privacy-1/"]
+  ]
+}

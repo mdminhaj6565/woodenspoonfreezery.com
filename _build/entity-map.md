@@ -24,6 +24,7 @@ keep keys lowercase-hyphen.
 | `gelato` | Gelato | Thing | https://en.wikipedia.org/wiki/Gelato |
 | `frozen-custard` | Frozen custard | Thing | https://en.wikipedia.org/wiki/Frozen_custard |
 | `sorbet` | Sorbet | Thing | https://en.wikipedia.org/wiki/Sorbet |
+| `ice-cream-cake` | Ice cream cake | Thing | https://en.wikipedia.org/wiki/Ice_cream_cake |
 | `ice-cream-sandwich` | Ice cream sandwich | Thing | https://en.wikipedia.org/wiki/Ice_cream_sandwich |
 | `hokey-pokey` | Hokey pokey (ice cream) | Thing | https://en.wikipedia.org/wiki/Hokey_pokey_(ice_cream) |
 | `honeycomb-toffee` | Honeycomb toffee | Thing | https://en.wikipedia.org/wiki/Honeycomb_toffee |

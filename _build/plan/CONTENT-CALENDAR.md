@@ -11,7 +11,7 @@ Public repo: no Search Console numbers in this file.
 
 | # | Target date | Status | Working title | Main keyword | Why | Labels | Slug |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2026-10-13 | planned | How to Make an Ice Cream Cake at Home | ice cream cake recipe | Birthday and party season; pairs with party guide | Recipes & ideas | how-to-make-an-ice-cream-cake |
+| 1 | 2026-10-13 | published 2026-11-01 — https://woodenspoonfreezery.com/blog/how-to-make-an-ice-cream-cake/ (1,406 words) | How to Make an Ice Cream Cake at Home | ice cream cake recipe | Birthday and party season; pairs with party guide | Recipes & ideas | how-to-make-an-ice-cream-cake |
 | 2 | 2026-10-16 | planned | Spooky Ice Cream Desserts for Halloween | halloween ice cream ideas | Halloween 31 Oct; seasonal search interest | Recipes & ideas, Seasonal | halloween-ice-cream-desserts |
 | 3 | 2026-10-19 | planned | Homemade Hot Fudge and Caramel Sauce for Ice Cream | hot fudge sauce for ice cream | Toppings gap; links to sundae and party posts | Recipes & ideas | hot-fudge-and-caramel-sauce |
 | 4 | 2026-10-22 | planned | How to Set Up an Ice Cream Sundae Bar | ice cream sundae bar | Party cluster; sundae bar mentioned but not covered | Parties & events | ice-cream-sundae-bar |
@@ -52,7 +52,7 @@ Public repo: no Search Console numbers in this file.
 
 how to store ice cream · soften ice cream · dairy-free ice cream bases · gelato vs ice cream · party quantities ·
 hokey pokey · ice cream sandwiches · allergens · wooden spoons · keep frozen on the way home · affogato ·
-small-batch ice cream · office ice cream party · flavours · ingredients & allergens · cookies & cream ·
+small-batch ice cream · office ice cream party · ice cream cake · flavours · ingredients & allergens · cookies & cream ·
 dairy-free range · cookie sandwiches · signature flavours · limited editions · Freeze Craft · stockists · trailer ·
 order & packs · office orders · Hooray Programme · about · how it's made · FAQs.
 

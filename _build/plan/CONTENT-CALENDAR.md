@@ -17,7 +17,7 @@ Public repo: no Search Console numbers in this file.
 | 4 | 2026-10-22 | published 2026-11-05 — https://woodenspoonfreezery.com/blog/ice-cream-sundae-bar/ (1,496 words) | How to Set Up an Ice Cream Sundae Bar | ice cream sundae bar | Party cluster; sundae bar mentioned but not covered | Parties & events | ice-cream-sundae-bar |
 | 5 | 2026-10-25 | published 2026-11-07 — https://woodenspoonfreezery.com/blog/how-long-can-ice-cream-sit-out/ (1,471 words) | How Long Can Ice Cream Sit Out? | how long can ice cream sit out | Food-safety question near storage cluster | Storage & serving | how-long-can-ice-cream-sit-out |
 | 6 | 2026-10-28 | published 2026-11-09 — https://woodenspoonfreezery.com/blog/what-causes-brain-freeze/ (1,491 words) | What Causes Brain Freeze (and How to Stop It) | brain freeze | Evergreen curiosity topic; summer lead-in | Ice cream basics | what-causes-brain-freeze |
-| 7 | 2026-11-01 | planned | How to Make a Proper Kiwi Thickshake | thickshake recipe | NZ term; summer drinks | Recipes & ideas, New Zealand | kiwi-thickshake-recipe |
+| 7 | 2026-11-01 | published 2026-11-11 — https://woodenspoonfreezery.com/blog/kiwi-thickshake-recipe/ (1,500 words) | How to Make a Proper Kiwi Thickshake | thickshake recipe | NZ term; summer drinks | Recipes & ideas, New Zealand | kiwi-thickshake-recipe |
 | 8 | 2026-11-03 | planned | Ice Cream Spiders and Floats: A Kiwi Classic | ice cream spider drink | NZ-specific name for floats | Recipes & ideas, New Zealand | ice-cream-spiders-and-floats |
 | 9 | 2026-11-05 | planned | No-Churn Ice Cream: How to Make It Without a Machine | no churn ice cream | Home-making intent; links to small-batch post | Recipes & ideas | no-churn-ice-cream |
 | 10 | 2026-11-07 | planned | Ice Cream at the Beach: Keeping It Cold on a Summer Day | beach ice cream tips | Summer; links to transport guide and trailer | Storage & serving, Seasonal | ice-cream-at-the-beach |
@@ -52,7 +52,7 @@ Public repo: no Search Console numbers in this file.
 
 how to store ice cream · soften ice cream · dairy-free ice cream bases · gelato vs ice cream · party quantities ·
 hokey pokey · hot fudge & caramel sauce · ice cream sandwiches · allergens · wooden spoons · keep frozen on the way home · affogato ·
-small-batch ice cream · office ice cream party · ice cream cake · how long ice cream can sit out · brain freeze · flavours · ingredients & allergens · cookies & cream ·
+small-batch ice cream · office ice cream party · ice cream cake · thickshake recipe · how long ice cream can sit out · brain freeze · flavours · ingredients & allergens · cookies & cream ·
 dairy-free range · cookie sandwiches · signature flavours · limited editions · Freeze Craft · stockists · trailer ·
 order & packs · office orders · Hooray Programme · about · how it's made · FAQs.
 

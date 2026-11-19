@@ -21,7 +21,7 @@ Public repo: no Search Console numbers in this file.
 | 8 | 2026-11-03 | published 2026-11-13 — https://woodenspoonfreezery.com/blog/ice-cream-spiders-and-floats/ (1,479 words) | Ice Cream Spiders and Floats: A Kiwi Classic | ice cream spider drink | NZ-specific name for floats | Recipes & ideas, New Zealand | ice-cream-spiders-and-floats |
 | 9 | 2026-11-05 | published 2026-11-15 — https://woodenspoonfreezery.com/blog/no-churn-ice-cream/ (1,478 words) | No-Churn Ice Cream: How to Make It Without a Machine | no churn ice cream | Home-making intent; links to small-batch post | Recipes & ideas | no-churn-ice-cream |
 | 10 | 2026-11-07 | published 2026-11-17 — https://woodenspoonfreezery.com/blog/ice-cream-at-the-beach/ (1,494 words) | Ice Cream at the Beach: Keeping It Cold on a Summer Day | beach ice cream tips | Summer; links to transport guide and trailer | Storage & serving, Seasonal | ice-cream-at-the-beach |
-| 11 | 2026-11-09 | planned | NZ Summer Fruit and Ice Cream Pairings | fruit and ice cream pairings | Cherries, berries and stone fruit season | Recipes & ideas, Seasonal | summer-fruit-ice-cream-pairings |
+| 11 | 2026-11-09 | published 2026-11-19 — https://woodenspoonfreezery.com/blog/summer-fruit-ice-cream-pairings/ (1,482 words) | NZ Summer Fruit and Ice Cream Pairings | fruit and ice cream pairings | Cherries, berries and stone fruit season | Recipes & ideas, Seasonal | summer-fruit-ice-cream-pairings |
 | 12 | 2026-11-11 | planned | Ripples and Swirls: How to Swirl Sauce Through Ice Cream | ice cream ripple | Explains our swirls; home technique | Recipes & ideas | ice-cream-ripples-and-swirls |
 | 13 | 2026-11-13 | planned | Ice Cream for a Kids' Birthday: Themes and Tips | kids birthday ice cream ideas | Party cluster; Birthday Cake flavour | Parties & events | kids-birthday-ice-cream |
 | 14 | 2026-11-15 | planned | What to Do With Ice Cream When the Power Goes Out | ice cream power cut | Practical NZ storms question | Storage & serving | ice-cream-power-cut |
@@ -52,7 +52,7 @@ Public repo: no Search Console numbers in this file.
 
 how to store ice cream · soften ice cream · dairy-free ice cream bases · gelato vs ice cream · party quantities ·
 hokey pokey · hot fudge & caramel sauce · ice cream sandwiches · allergens · wooden spoons · keep frozen on the way home · affogato ·
-small-batch ice cream · office ice cream party · ice cream cake · thickshake recipe · how long ice cream can sit out · brain freeze · ice cream spiders & floats · no-churn ice cream · ice cream at the beach · flavours · ingredients & allergens · cookies & cream ·
+small-batch ice cream · office ice cream party · ice cream cake · thickshake recipe · how long ice cream can sit out · brain freeze · ice cream spiders & floats · no-churn ice cream · ice cream at the beach · summer fruit pairings · flavours · ingredients & allergens · cookies & cream ·
 dairy-free range · cookie sandwiches · signature flavours · limited editions · Freeze Craft · stockists · trailer ·
 order & packs · office orders · Hooray Programme · about · how it's made · FAQs.
 

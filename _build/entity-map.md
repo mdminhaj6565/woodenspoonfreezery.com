@@ -5,7 +5,7 @@ Used by `_build/build.py`: an article or page lists entity keys in its META
 schema.org Thing with a `sameAs` link. All links point to English Wikipedia;
 the less common ones (hokey pokey, freezer burn, Vietnamese iced coffee,
 Lyall Bay, cookies and cream, cooler, gelato, affogato, frozen custard) were
-opened and checked in October 2026; caramelization, milkshake and ice cream float in November 2026. Open any new link before adding a row, and
+opened and checked in October 2026; caramelization, milkshake, ice cream float and raspberry ripple in November 2026. Open any new link before adding a row, and
 keep keys lowercase-hyphen.
 
 ## Brand and place
@@ -35,6 +35,7 @@ keep keys lowercase-hyphen.
 | `caramelization` | Caramelization | Thing | https://en.wikipedia.org/wiki/Caramelization |
 | `milkshake` | Milkshake | Thing | https://en.wikipedia.org/wiki/Milkshake |
 | `ice-cream-float` | Ice cream float | Thing | https://en.wikipedia.org/wiki/Ice_cream_float |
+| `raspberry-ripple` | Raspberry ripple | Thing | https://en.wikipedia.org/wiki/Raspberry_ripple |
 | `custard` | Custard | Thing | https://en.wikipedia.org/wiki/Custard |
 | `butterfat` | Butterfat | Thing | https://en.wikipedia.org/wiki/Butterfat |
 | `chocolate-chip-cookie` | Chocolate chip cookie | Thing | https://en.wikipedia.org/wiki/Chocolate_chip_cookie |
